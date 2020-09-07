@@ -4,6 +4,6 @@
 
 https://www.realm667.com/index.php/en/
 
-./responses.txt
+[responses](./responses.txt)
 
-./step4.png
+[screenshot](./step4.png)
